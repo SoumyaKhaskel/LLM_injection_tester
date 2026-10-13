@@ -349,7 +349,7 @@ This tool is for **authorized security testing and education only.** Only test m
 
 ## 15. Author
 
-**Soumya** (BlaZeFury)
-Final-year MCA, Cyber Security | LPU
-AZ-500 · CEH · Google Cybersecurity Professional
-Target roles: Cloud Security Engineer · DevSecOps Engineer · AI Security Engineer
+**Soumya** (Fury)
+MCA, Cyber Security | LPU | EX-TCS and DevSecOps Intern
+TryHackMe AI security certified · AZ-500 · CEH · Google Cybersecurity Professional
+Targeted roles now: Cloud Security Engineer · AI Security Engineer · DevSecOps Engineer 
