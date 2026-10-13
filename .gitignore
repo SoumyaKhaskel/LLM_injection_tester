@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Scan results (optional - remove these lines if you want results in repo)
+results_*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+*.env
+
+# AWS credentials (never commit these)
+.aws/
+credentials
